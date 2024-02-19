@@ -69,7 +69,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-09131B?style=for-the-badge&logo=Vue.js&logoColor=3FB17F)
 ![Adobexd](https://img.shields.io/badge/Adobexd-09131B?style=for-the-badge&logo=Adobexd&logoColor=FF61F6)
 ![Docker](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=Docker&logoColor=119AD4)
-![Deluge-Zoho](https://img.shields.io/badge/Docker-09131B?style=for-the-badge&logo=Docker&logoColor=119AD4)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
+[![Zoho](https://img.shields.io/badge/Zoho-FF8000?style=for-the-badge&logo=Zoho&logoColor=white)](https://www.zoho.com/)
+
 
 <br/>
 
