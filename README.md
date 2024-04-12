@@ -13,7 +13,7 @@
 </b>
 </h3>
 <p align="center">
-  <a href="https://github.com/krishnaamen"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills" alt="Typing SVG" /></a></a>
+  <a href="https://github.com/krishnaamen"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Full-stack+Webdeveloper;Tech+Enthusiast;Learning+new+Skills;Mobile_App_Developer" alt="Typing SVG" /></a></a>
 </p>
 <p align="center">     
     「 I am a full stack web application developer from <b>Denmark,Copenhagen</b> 」
