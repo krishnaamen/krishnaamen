@@ -39,7 +39,7 @@
 <p>
 👯 &emsp; I am looking for a <code style="color:#9DAAF2"> Fullstack Developer role</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
-❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> AWS </code> with <code style="color:#9DAAF2">Typescript</code><br/><br/>
+❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> AWS </code> and  <code style="color:#9DAAF2">Typescript</code><br/><br/>
 📧 &emsp; Reach me anytime:<a style="color:#9DAAF2" href="mailto=krishnaamen@gmail.com"> krishnaamen@gmail.com</a><br/><br/>
 
 </p>
